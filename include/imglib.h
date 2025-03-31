@@ -6,8 +6,8 @@
 
 	Written By: Ryan Smith
 */
-#ifndef IMGLIB_H
-#define IMGLIB_H
+#ifndef _IMGLIB_H
+#define _IMGLIB_H
 
 #include <stddef.h>
 #include <stdint.h>
